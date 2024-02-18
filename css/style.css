@@ -1,0 +1,16 @@
+a, a:visited, c:hover, c:active {
+  color: inherit;
+}
+#fs{font-family: 'Architects Daughter', cursive;
+color:white;
+}
+#fl{
+font:bold;
+}
+#tq{
+background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/pad-thai.jpg");
+    
+}
+ul{
+  list-style-type: none;
+}
